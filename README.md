@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Unique Links é um cartão de visitas online para mostrar os produtos da empresa de forma simples e pratica.
+Unique Links é um cartão de visitas online para mostrar os produtos da empresa de forma simples e prática.
 
 - [Acesse o projeto finalizado, online](https://diegoreboucas.github.io/unique-links)
 
